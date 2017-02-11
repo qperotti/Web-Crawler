@@ -17,14 +17,6 @@ class Spider:
 	crawled_file = ''
 	queue = set()
 	crawled = set()
-	####################
-
-	#auibdsiaugsdiasbdoa
-	aiusdgiausgdouas
-
-	#### this is an update
-	###snoasd
-
 
 	def __init__(self, project_name, base_url, domain_name):
 		Spider.project_name = project_name
