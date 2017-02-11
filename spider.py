@@ -7,6 +7,9 @@ from general import *
 
 class Spider:
 
+	## master change
+	###
+
 	# Class variables (shared among all instances)
 	project_name = ''
 	base_url = ''
